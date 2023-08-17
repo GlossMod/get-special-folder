@@ -1,6 +1,6 @@
 {
-  "name": "get-special-folder",
-  "version": "1.0.0",
+  "name": "@glossmod/get-dll-path",
+  "version": "1.0.3",
   "description": "",
   "main": "src/index.ts",
   "scripts": {
@@ -9,16 +9,11 @@
     "test": "ts-node test/test.ts"
   },
   "files": [
-    "src"
+    "lib",
+    "*.js",
+    "*.d.ts"
   ],
   "keywords": [],
   "author": "小莫 <xm@aoe.top>",
-  "license": "ISC",
-  "dependencies": {
-    "edge-js": "^19.3.0"
-  },
-  "devDependencies": {
-    "@types/node": "^20.5.0",
-    "typescript": "^5.1.6"
-  }
+  "license": "ISC"
 }

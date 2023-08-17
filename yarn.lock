@@ -2,30 +2,3 @@
 # yarn lockfile v1
 
 
-"@types/node@^20.5.0":
-  version "20.5.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.5.0.tgz#7fc8636d5f1aaa3b21e6245e97d56b7f56702313"
-  integrity sha512-Mgq7eCtoTjT89FqNoTzzXg2XvCi5VMhRV6+I2aYanc6kQCBImeNaAYRs/DyoVqk1YEUJK5gN9VO7HRIdz4Wo3Q==
-
-edge-cs@1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/edge-cs/-/edge-cs-1.2.1.tgz#bd1a9ecdb94ef0ed40c894582046749e57045e5a"
-  integrity sha512-N5KAeMBhhCbCGmb5oiHJ0KcuTksZzo8lg+uByEUCZAdnLPHizHkk6ZIuuTD63eez7+W25ZSvsGS5+FtymxFoKw==
-
-edge-js@^19.3.0:
-  version "19.3.0"
-  resolved "https://registry.yarnpkg.com/edge-js/-/edge-js-19.3.0.tgz#9e52646a41ce45c3a363a4b2d907f215b9dfb5d6"
-  integrity sha512-wp01bWIhGDH0+cduOEToJxbJBaklGe7pRlIPdEKaaeIn/8QdN3OyRGFMM+Gk/zKTUrFCK+nlu+qTKuOQnIyOVg==
-  dependencies:
-    edge-cs "1.2.1"
-    nan "^2.17.0"
-
-nan@^2.17.0:
-  version "2.17.0"
-  resolved "https://registry.yarnpkg.com/nan/-/nan-2.17.0.tgz#c0150a2368a182f033e9aa5195ec76ea41a199cb"
-  integrity sha512-2ZTgtl0nJsO0KQCjEpxcIr5D+Yv90plTitZt9JBfQvVJDS5seMl3FOvsh3+9CoYWXf/1l5OaZzzF6nDm4cagaQ==
-
-typescript@^5.1.6:
-  version "5.1.6"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.1.6.tgz#02f8ac202b6dad2c0dd5e0913745b47a37998274"
-  integrity sha512-zaWCozRZ6DLEWAWFrVDz1H6FVXzUSfTy5FUMWsQlU8Ym5JP9eO4xkTIROFCQvhQf61z6O/G6ugw3SgAnvvm+HA==
